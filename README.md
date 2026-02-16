@@ -143,11 +143,11 @@ Abstract: This paper presents a robust implementation of Deep Q-Network (DQN) an
 
 
 📬 Contact
-<div align="center">
-Mohammad Reza Cov Andish	Seyed Ali Fayez Hosseini
+
+Mohammad Reza Cov Andish and	Seyed Ali Fayez Hosseini
 https://img.shields.io/badge/GitHub-@mr--kavandish-100000?style=for-the-badge&logo=github	https://img.shields.io/badge/GitHub-@FayezHussaini-100000?style=for-the-badge&logo=github
 https://img.shields.io/badge/Email-mr.kavandish@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white	https://img.shields.io/badge/Email-fayez.h@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-</div><br> <br><div align="center">
+
 ⭐ If you find our work useful, please consider giving it a star!
 A Joint Reinforcement Learning Project by
 Mohammad Reza Cov Andish (Reinforcement Learning & Deep Learning Specialist)
@@ -158,4 +158,4 @@ Kabul University - Faculty of Computer Science
 
 ⬆ Back to Top
 
-</div> ```
+

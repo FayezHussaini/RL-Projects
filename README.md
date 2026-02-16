@@ -142,11 +142,13 @@ Authors: Mohammad Reza Cov Andish, Seyed Ali Fayez Hosseini
 Abstract: This paper presents a robust implementation of Deep Q-Network (DQN) and Dueling DQN algorithms for solving the CartPole-v1 environment from a Reinforcement Learning perspective. Our work represents a collaborative effort between two RL specialists with complementary expertise. The proposed architecture achieves 100% success rate (maximum reward of 500) with 94% consistency across multiple runs.
 
 
-📬 Contact
+📬 Contact & Social Media
 
 Mohammad Reza Cov Andish and	Seyed Ali Fayez Hosseini
+
 https://img.shields.io/badge/GitHub-@mr--kavandish-100000?style=for-the-badge&logo=github	https://img.shields.io/badge/GitHub-@FayezHussaini-100000?style=for-the-badge&logo=github
-https://img.shields.io/badge/Email-mr.kavandish@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white	https://img.shields.io/badge/Email-fayez.h@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Email-mohammadrezacovandish@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white	https://img.shields.io/badge/Email-hussainifayez2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 ⭐ If you find our work useful, please consider giving it a star!
 A Joint Reinforcement Learning Project by

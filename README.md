@@ -146,7 +146,7 @@ Abstract: This paper presents a robust implementation of Deep Q-Network (DQN) an
 
 Mohammad Reza Cov Andish 	                                               Seyed Ali Fayez Hosseini
 https://github.com/MohammadRezaCovAndish                                 https://github.com/FayezHussaini
-email: mohammadrezacovandish@gmial.com                                   hussainifayez2004@gmail.com
+email: mohammadrezacovandish@gmial.com                                   email: hussainifayez2004@gmail.com
 https://www.linkedin.com/in/mohammad-reza-cov-andish-1a3825336           https://www.linkedin.com/in/sayed-ali-fayez-hussaini-651205374
 
 

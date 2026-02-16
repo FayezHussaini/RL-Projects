@@ -10,8 +10,8 @@ https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge
 👥 Team Members
 <div align="center">
 <img src="https://github.com/identicons/mr-kavandish.png" width="120" style="border-radius:50%; border: 3px solid #2ecc71"/>	<img src="https://github.com/identicons/FayezHussaini.png" width="120" style="border-radius:50%; border: 3px solid #3498db"/>
-## محمد رضا کاو اندیش
-(Mohammad Reza Cov Andish)	## سید علی فایز حسینی
+
+(Mohammad Reza Cov Andish)
 (Seyed Ali Fayez Hosseini)
 Reinforcement Learning Specialist
 Deep Learning & Neural Networks Expert	Reinforcement Learning Specialist
@@ -178,7 +178,7 @@ https://img.shields.io/badge/Email-mr.kavandish%2540gmail.com-D14836?style=for-t
 A Joint Reinforcement Learning Project by
 Mohammad Reza Cov Andish (Reinforcement Learning & Deep Learning Specialist)
 Seyed Ali Fayez Hosseini (Reinforcement Learning & DQN Specialist)
-*Tehran, Iran - 2026*
+*Kabul University Faculty of Computer Scince Department Information Systems - 2026*
 ⬆ Back to Top
 
 </div> ```
